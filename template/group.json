@@ -1,0 +1,13 @@
+{
+  "id": 1,
+  "imageUrl": "https://picsum.photos/500/350",
+  "name": "川柳同好会",
+  "location": "東京目黒区",
+  "member_amount": 67,
+  "is_liked": false,
+  "created_user": {
+    "id": 1,
+    "name": "山田 太郎",
+    "avatar_url": "https://picsum.photos/200"
+  }
+}

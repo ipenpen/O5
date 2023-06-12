@@ -1,0 +1,82 @@
+{
+"data": [
+  {
+    "id": 1,
+    "imageUrl": "https://picsum.photos/500/350",
+    "name": "川柳同好会",
+    "location": "東京目黒区",
+    "member_amount": 67,
+    "is_liked": false,
+    "created_user": {
+      "id": 1,
+      "name": "主催ユーザー名",
+      "avatar_url": "https://picsum.photos/200"
+    }
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://picsum.photos/500/350",
+    "name": "謎かけクラブ",
+    "location": "オンライン開催",
+    "member_amount": 100,
+    "is_liked": false,
+    "created_user": {
+      "id": 1,
+      "name": "主催ユーザー名",
+      "avatar_url": "https://picsum.photos/200"
+    }
+  },
+  {
+    "id": 3,
+    "imageUrl": "https://picsum.photos/500/350",
+    "name": "シニアのフォトクラブ",
+    "location": "東京都渋谷区",
+    "member_amount": 9,
+    "is_liked": false,
+    "created_user": {
+      "id": 1,
+      "name": "主催ユーザー名",
+      "avatar_url": "https://picsum.photos/200"
+    }
+  },
+  {
+    "id": 4,
+    "imageUrl": "https://picsum.photos/500/350",
+    "name": "川柳同好会",
+    "location": "東京目黒区",
+    "member_amount": 67,
+    "is_liked": false,
+    "created_user": {
+      "id": 1,
+      "name": "主催ユーザー名",
+      "avatar_url": "https://picsum.photos/200"
+    }
+  },
+  {
+    "id": 5,
+    "imageUrl": "https://picsum.photos/500/350",
+    "name": "謎かけクラブ",
+    "location": "オンライン開催",
+    "member_amount": 100,
+    "is_liked": false,
+    "created_user": {
+      "id": 1,
+      "name": "主催ユーザー名",
+      "avatar_url": "https://picsum.photos/200"
+    }
+  },
+  {
+    "id": 6,
+    "imageUrl": "https://picsum.photos/500/350",
+    "name": "シニアのフォトクラブ",
+    "location": "東京都渋谷区",
+    "member_amount": 9,
+    "is_liked": false,
+    "created_user": {
+      "id": 1,
+      "name": "主催ユーザー名",
+      "avatar_url": "https://picsum.photos/200"
+    }
+  }  
+]
+}
