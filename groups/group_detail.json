@@ -1,0 +1,225 @@
+{
+  "id": 1,
+  "image_url": "https://picsum.photos/500/350",
+  "name": "謎かけクラブ",
+  "location": {
+    "name": "オンライン開催"
+  },
+  "compatibility": "あなたにおすすめ",
+  "description": "グループの概要文がここに入りますグループの概要文がここに入りますグループの概要文がここに入りますグループの概要文がここに入ります",
+  "member_amount": 67,
+  "is_liked": true,
+  "is_joined": true,
+  "created_user": {
+    "id": 1,
+    "name": "ユーザー名",
+    "avatar_url": "https://picsum.photos/200"
+  },
+  "members": [
+    {
+      "id": 1,
+      "image_url": "https://picsum.photos/300/300",
+      "name": "メンバー名"
+    },
+    {
+      "id": 2,
+      "image_url": "https://picsum.photos/300/300",
+      "name": "メンバー名"
+    },
+    {
+      "id": 3,
+      "image_url": "https://picsum.photos/300/300",
+      "name": "メンバー名"
+    },
+    {
+      "id": 4,
+      "image_url": "https://picsum.photos/300/300",
+      "name": "メンバー名"
+    },
+    {
+      "id": 5,
+      "image_url": "https://picsum.photos/300/300",
+      "name": "メンバー名"
+    },
+    {
+      "id": 6,
+      "image_url": "https://picsum.photos/300/300",
+      "name": "メンバー名"
+    },
+    {
+      "id": 7,
+      "image_url": "https://picsum.photos/300/300",
+      "name": "メンバー名"
+    },
+    {
+      "id": 8,
+      "image_url": "https://picsum.photos/300/300",
+      "name": "メンバー名"
+    },
+    {
+      "id": 9,
+      "image_url": "https://picsum.photos/300/300",
+      "name": "メンバー名"
+    },
+    {
+      "id": 10,
+      "image_url": "https://picsum.photos/300/300",
+      "name": "メンバー名"
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "image_url": "https://picsum.photos/500/350",
+      "name": "ゆる募・第30回オンラインカラオケ会を開催します",
+      "location": {
+        "name": "東京目黒区"
+      },
+      "member_amount": 67,
+      "is_liked": false,
+      "start_date": 1687219210000,
+      "created_user": {
+        "id": 1,
+        "name": "新宿シニアカラオケ部",
+        "avatar_url": "https://picsum.photos/200"
+      }
+    },
+    {
+      "id": 2,
+      "image_url": "https://picsum.photos/500/350",
+      "name": "ゆる募・第30回オンラインカラオケ会を開催します",
+      "location": {
+        "name": "東京目黒区"
+      },
+      "member_amount": 67,
+      "is_liked": false,
+      "start_date": 1687219210000,
+      "created_user": {
+        "id": 1,
+        "name": "新宿シニアカラオケ部",
+        "avatar_url": "https://picsum.photos/200"
+      }
+    },
+    {
+      "id": 3,
+      "image_url": "https://picsum.photos/500/350",
+      "name": "ゆる募・第30回オンラインカラオケ会を開催します",
+      "location": {
+        "name": "東京目黒区"
+      },
+      "member_amount": 67,
+      "is_liked": false,
+      "start_date": 1687219210000,
+      "created_user": {
+        "id": 1,
+        "name": "新宿シニアカラオケ部",
+        "avatar_url": "https://picsum.photos/200"
+      }
+    },
+    {
+      "id": 4,
+      "image_url": "https://picsum.photos/500/350",
+      "name": "ゆる募・第30回オンラインカラオケ会を開催します",
+      "location": {
+        "name": "東京目黒区"
+      },
+      "member_amount": 67,
+      "is_liked": false,
+      "start_date": 1687219210000,
+      "created_user": {
+        "id": 1,
+        "name": "新宿シニアカラオケ部",
+        "avatar_url": "https://picsum.photos/200"
+      }
+    },
+    {
+      "id": 5,
+      "image_url": "https://picsum.photos/500/350",
+      "name": "ゆる募・第30回オンラインカラオケ会を開催します",
+      "location": {
+        "name": "東京目黒区"
+      },
+      "member_amount": 67,
+      "is_liked": false,
+      "start_date": 1687219210000,
+      "created_user": {
+        "id": 1,
+        "name": "新宿シニアカラオケ部",
+        "avatar_url": "https://picsum.photos/200"
+      }
+    }
+  ],
+  "topics": [
+    {
+      "title": "ユーザー名さんが掲示板でコメントしました",
+      "image_url": "https://picsum.photos/300/300",
+      "description": "いいですね！私も気になっていた話題なのでお話を聞いてみたいです！来週のイベント楽しみにしています！開始時間...",
+      "created_at": 1687219210000,
+      "type": "comment",
+      "id": 1
+    },
+    {
+      "title": "ユーザー名さんがグループに参加しました",
+      "image_url": "https://picsum.photos/300/300",
+      "created_at": 1687219210000,
+      "type": "new_user",
+      "id": 1
+    },
+    {
+      "title": "ユーザー名さんが掲示板に投稿しました",
+      "image_url": "https://picsum.photos/300/300",
+      "description": "「2023年の抱負をお聞かせください」",
+      "created_at": 1687219210000,
+      "type": "board",
+      "id": 1
+    }
+  ],
+  "board_count": 20,
+  "boards": [
+    {
+      "id": 1,
+      "is_following": true,
+      "image_url": "https://picsum.photos/500/350",
+      "name": "3/6（日）六本木フレンチフルコースランチレポ",
+      "description": "六本木フレンチフルコースのイベントに参加の皆さん、ありがとうございました✨ 2022年ミシュラン一ツ星を獲得しているとても素敵なレストラン✨ 思い込みの強いオバサンの脳を刺激するような、意外性と手の込んだ一皿一皿に感激した1日でした 12時からランチが始まり...",
+      "last_commented_at": 1687219210000,
+      "created_user": {
+        "id": 1,
+        "name": "山田 太郎",
+        "avatar_url": "https://picsum.photos/200"
+      },
+      "view_count": 240,
+      "comment_count": 4
+    },
+    {
+      "id": 2,
+      "is_following": true,
+      "image_url": "https://picsum.photos/500/350",
+      "name": "しりとり川柳、しりとり都々逸で遊びませんか",
+      "description": "川柳、俳句五七五、都々逸七七七五、短歌五七五七七、の どれかを詠んでその中の、五文字か、七文字に繋いでください。お尻の語句につなぐ必要はありません。 繋ぐ語句は、自分の句の文頭におく事、これが、ルールです。 重なった時は、先の人に繋いでください。後の...",
+      "last_commented_at": 1687219210000,
+      "created_user": {
+        "id": 1,
+        "name": "山田 太郎",
+        "avatar_url": "https://picsum.photos/200"
+      },
+      "view_count": 240,
+      "comment_count": 4
+    },
+    {
+      "id": 3,
+      "is_following": false,
+      "image_url": "https://picsum.photos/500/350",
+      "name": "大人の社会科見学（日々是好日）",
+      "description": "川柳、俳句五七五、都々逸七七七五、短歌五七五七七、の どれかを詠んでその中の、五文字か、七文字に繋いでください。お尻の語句につなぐ必要はありません。 繋ぐ語句は、自分の句の文頭におく事、これが、ルールです。 重なった時は、先の人に繋いでください。後の...",
+      "last_commented_at": 1687219210000,
+      "created_user": {
+        "id": 1,
+        "name": "山田 太郎",
+        "avatar_url": "https://picsum.photos/200"
+      },
+      "view_count": 240,
+      "comment_count": 4
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "image_url": "https://picsum.photos/500/350",
+      "name": "メンバー名",
+      "tags": [
+        {
+          "id": 1,
+          "name": "恋人募集中"
+        }
+      ],
+      "location": {
+        "name": "東京目黒区"
+      },
+      "is_friend": true,
+      "common_point": 2
+    },
+    {
+      "id": 2,
+      "image_url": "https://picsum.photos/500/350",
+      "name": "メンバー名",
+      "tags": [
+        {
+          "id": 1,
+          "name": "恋人募集中"
+        },
+        {
+          "id": 2,
+          "name": "友達探し"
+        }
+      ],
+      "location": {
+        "name": "東京都新宿区・"
+      },
+      "is_friend": false,
+      "common_point": 1
+    }
+  ],
+  "pageInfo": {
+    "currentPage": 1,
+    "limitValue": 20,
+    "totalCount": 100,
+    "totalPages": 5
+  }
+}

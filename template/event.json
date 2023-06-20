@@ -1,15 +1,16 @@
 {
   "id": 1,
   "image_url": "https://picsum.photos/500/350",
-  "name": "川柳同好会",
+  "name": "ゆる募・第30回オンラインカラオケ会を開催します",
   "location": {
     "name": "東京目黒区"
   },
   "member_amount": 67,
   "is_liked": false,
+  "start_date": 1687219210000,
   "created_user": {
     "id": 1,
-    "name": "山田 太郎",
+    "name": "新宿シニアカラオケ部",
     "avatar_url": "https://picsum.photos/200"
   }
 }

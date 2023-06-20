@@ -3,93 +3,99 @@
     {
       "id": 1,
       "image_url": "https://picsum.photos/500/350",
-      "name": "川柳同好会",
+      "name": "ゆる募・第30回オンラインカラオケ会を開催します",
       "location": {
         "name": "東京目黒区"
       },
       "member_amount": 67,
       "is_liked": false,
+      "start_date": 1687219210000,
       "created_user": {
         "id": 1,
-        "name": "主催ユーザー名",
+        "name": "新宿シニアカラオケ部",
         "avatar_url": "https://picsum.photos/200"
       }
     },
     {
       "id": 2,
       "image_url": "https://picsum.photos/500/350",
-      "name": "謎かけクラブ",
+      "name": "ゆる募・第30回オンラインカラオケ会を開催します",
       "location": {
-        "name": "オンライン開催"
+        "name": "東京目黒区"
       },
-      "member_amount": 100,
+      "member_amount": 67,
       "is_liked": false,
+      "start_date": 1687219210000,
       "created_user": {
         "id": 1,
-        "name": "主催ユーザー名",
+        "name": "新宿シニアカラオケ部",
         "avatar_url": "https://picsum.photos/200"
       }
     },
     {
       "id": 3,
       "image_url": "https://picsum.photos/500/350",
-      "name": "シニアのフォトクラブ",
+      "name": "ゆる募・第30回オンラインカラオケ会を開催します",
       "location": {
-        "name": "東京都渋谷区"
+        "name": "東京目黒区"
       },
-      "member_amount": 9,
+      "member_amount": 67,
       "is_liked": false,
+      "start_date": 1687219210000,
       "created_user": {
         "id": 1,
-        "name": "主催ユーザー名",
+        "name": "新宿シニアカラオケ部",
         "avatar_url": "https://picsum.photos/200"
       }
     },
     {
       "id": 4,
       "image_url": "https://picsum.photos/500/350",
-      "name": "川柳同好会",
+      "name": "ゆる募・第30回オンラインカラオケ会を開催します",
       "location": {
         "name": "東京目黒区"
       },
       "member_amount": 67,
       "is_liked": false,
+      "start_date": 1687219210000,
       "created_user": {
         "id": 1,
-        "name": "主催ユーザー名",
+        "name": "新宿シニアカラオケ部",
         "avatar_url": "https://picsum.photos/200"
       }
     },
     {
       "id": 5,
       "image_url": "https://picsum.photos/500/350",
-      "name": "謎かけクラブ",
+      "name": "ゆる募・第30回オンラインカラオケ会を開催します",
       "location": {
         "name": "東京目黒区"
       },
-      "member_amount": 100,
+      "member_amount": 67,
       "is_liked": false,
+      "start_date": 1687219210000,
       "created_user": {
         "id": 1,
-        "name": "主催ユーザー名",
+        "name": "新宿シニアカラオケ部",
         "avatar_url": "https://picsum.photos/200"
       }
     },
     {
       "id": 6,
       "image_url": "https://picsum.photos/500/350",
-      "name": "シニアのフォトクラブ",
+      "name": "ゆる募・第30回オンラインカラオケ会を開催します",
       "location": {
         "name": "東京目黒区"
       },
-      "member_amount": 9,
+      "member_amount": 67,
       "is_liked": false,
+      "start_date": 1687219210000,
       "created_user": {
         "id": 1,
-        "name": "主催ユーザー名",
+        "name": "新宿シニアカラオケ部",
         "avatar_url": "https://picsum.photos/200"
       }
-    }  
+    }
   ],
   "pageInfo": {
     "currentPage": 1,
