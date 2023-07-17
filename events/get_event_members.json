@@ -1,0 +1,65 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "image_url": "https://picsum.photos/500/350",
+      "name": "メンバー名",
+      "location": {
+        "name": "東京目黒区"
+      },
+      "joined_date": 1687219210000,
+      "is_friend": true,
+      "common_point": 2
+    },
+    {
+      "id": 2,
+      "image_url": "https://picsum.photos/500/350",
+      "name": "メンバー名",
+      "location": {
+        "name": "東京都新宿区"
+      },
+      "joined_date": 1687219210000,
+      "is_friend": false,
+      "common_point": 4
+    },
+    {
+      "id": 3,
+      "image_url": "https://picsum.photos/500/350",
+      "name": "メンバー名",
+      "location": {
+        "name": "東京都新宿区"
+      },
+      "joined_date": 1687219210000,
+      "is_friend": false,
+      "common_point": 3
+    },
+    {
+      "id": 4,
+      "image_url": "https://picsum.photos/500/350",
+      "name": "メンバー名",
+      "location": {
+        "name": "東京都新宿区"
+      },
+      "joined_date": 1687219210000,
+      "is_friend": false,
+      "common_point": 3
+    },
+    {
+      "id": 5,
+      "image_url": "https://picsum.photos/500/350",
+      "name": "メンバー名",
+      "location": {
+        "name": "東京都新宿区"
+      },
+      "joined_date": 1687219210000,
+      "is_friend": false,
+      "common_point": 1
+    }
+  ],
+  "pageInfo": {
+    "currentPage": 1,
+    "limitValue": 20,
+    "totalCount": 71,
+    "totalPages": 4
+  }
+}

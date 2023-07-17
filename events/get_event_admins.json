@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "image_url": "https://picsum.photos/500/350",
+      "name": "ユーザー名",
+      "location": {
+        "name": "東京目黒区"
+      },
+      "is_friend": true,
+      "common_point": 2
+    },
+    {
+      "id": 2,
+      "image_url": "https://picsum.photos/500/350",
+      "name": "ユーザー名",
+      "location": {
+        "name": "東京都新宿区"
+      },
+      "is_friend": false,
+      "common_point": 4
+    }
+  ]
+}

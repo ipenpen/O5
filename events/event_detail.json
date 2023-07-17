@@ -1,0 +1,64 @@
+{
+  "id": 1,
+  "image_url": "https://picsum.photos/500/350",
+  "name": "ゆる募・第30回オンラインカラオケ会を開催します",
+  "is_liked": false,
+  "is_joined": true,
+  "created_user": {
+    "id": 1,
+    "name": "新宿シニアカラオケ部",
+    "avatar_url": "https://picsum.photos/200"
+  },
+  "start_date": {
+    "date": 1687219210000,
+    "from": "19:00",
+    "to": "21:00"
+  },
+  "location": {
+    "place": "新宿区1○○ホール",
+    "address": "東京都新宿区1-2-3"
+  },
+  "compatibility": "あなたにおすすめ",
+  "description": "<html>イベントの概要文がここに入りますイベントの概要文がここに入りますイベントの概要文がここに入りますイベントの概要文がここに入りますイベントの概要文がここに入りますイベントの概要文がここに入りますイベントの概要文がここに入りますイベントの概要文がここに入りますイベントの概要文がここに入りますイベントの概要文がここに入りますイベントの概要文がここに入りますイベントの概要文がここに入りますイベントの概要文がここに入りますイベントの概要文がここに入りますイベントの概要文がここに入りますイベントの概要文がここに入ります<image src=`https://picsum.photos/500/350` /></html>",
+  "group": {
+    "id": 1,
+    "image_url": "https://picsum.photos/500/350",
+    "name": "グループ名が入ります",
+    "location": {
+      "name": "東京都新宿区"
+    }
+  },
+  "admins": [
+    {
+      "id": 1,
+      "image_url": "https://picsum.photos/300/300",
+      "name": "メンバー名"
+    },
+    {
+      "id": 2,
+      "image_url": "https://picsum.photos/300/300",
+      "name": "メンバー名"
+    }
+  ],
+  "joined_members": {
+    "total": 71,
+    "pickup": [
+      {
+        "id": 1,
+        "image_url": "https://picsum.photos/300/300"
+      },
+      {
+        "id": 2,
+        "image_url": "https://picsum.photos/300/300"
+      },
+      {
+        "id": 3,
+        "image_url": "https://picsum.photos/300/300"
+      },
+      {
+        "id": 4,
+        "image_url": "https://picsum.photos/300/300"
+      }
+    ]
+  }
+}
